@@ -99,7 +99,11 @@ An example of scraped page as stored in MongoDB:
   "company": "John Lewis Partnership",
   "url": "http://www.johnlewispartnership.co.uk/csr/our-environment/environmental-performance.html",
   "link_text": "Environmental Performance",
-  "content": "We are committed to increasing the energy efficiency of our buildings, procuring low carbon energy and finding more efficient ways to distribute our goods, as well as encouraging innovation. Our overarching aim is to achieve a 65% reduction in carbon intensity (tonnes per £m sales) by 2020/21 against a 2010 baseline and by 2020 we want to eliminate all of our operational waste going to landfill. Prior years’ data is reported in line with our financial reporting period. 2015 data is reported on an approximate calendar year basis which comprises the period from 21 December 2014 to 26 December 2015. Going forward, the annual results will be prepared on an approximate calendar year basis.",
+  "content": "We are committed to increasing the energy efficiency of our buildings, procuring low carbon energy and finding more efficient ways to distribute our goods, as well as encouraging innovation.
+	Our overarching aim is to achieve a 65% reduction in carbon intensity (tonnes per £m sales) by 2020/21 against a 2010 baseline and by 2020 we want to eliminate all of our operational waste going to landfill.
+	Prior years’ data is reported in line with our financial reporting period.
+	2015 data is reported on an approximate calendar year basis which comprises the period from 21 December 2014 to 26 December 2015. 
+	Going forward, the annual results will be prepared on an approximate calendar year basis.",
   "keywords": [
 		"environment",
 		"csr"
