@@ -30,7 +30,7 @@ A high-level overview of the architecture of the scraper is shown in the next fi
 ![alt tag](https://alessandrasozzi.github.io/MSc-dissertation/diagram.png)
 
 
-<span style="font-size: 0.7em;"><sup>1</sup> Pages are flagged if at least one of the predefined keywords is found in the URL address of the page or the text of the hyperlink leading to the page. Keywords were chosen by inspecting a sample of websites and looking at what were the most common words used to introduce sustainability content. </span>
+<span style="font-size: 8px;"><sup>1</sup> Pages are flagged if at least one of the predefined keywords is found in the URL address of the page or the text of the hyperlink leading to the page. Keywords were chosen by inspecting a sample of websites and looking at what were the most common words used to introduce sustainability content. </span>
 
 
 ## How do I use it?
@@ -102,7 +102,7 @@ An example of scraped page as stored in MongoDB:
   "content": "We are committed to increasing the energy efficiency of our buildings, procuring low carbon energy and finding more efficient ways to distribute our goods, as well as encouraging innovation.
 	Our overarching aim is to achieve a 65% reduction in carbon intensity (tonnes per £m sales) by 2020/21 against a 2010 baseline and by 2020 we want to eliminate all of our operational waste going to landfill.
 	Prior years’ data is reported in line with our financial reporting period.
-	2015 data is reported on an approximate calendar year basis which comprises the period from 21 December 2014 to 26 December 2015. 
+	2015 data is reported on an approximate calendar year basis which comprises the period from 21 December 2014 to 26 December 2015.
 	Going forward, the annual results will be prepared on an approximate calendar year basis.",
   "keywords": [
 		"environment",
